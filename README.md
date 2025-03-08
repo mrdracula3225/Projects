@@ -1,6 +1,6 @@
 # Projects
 <br>
-<h1>These are the small projects based on java</h1>
+<h2>These are the small projects based on java</h2>
 <br>
 1. Income tax calculator.
 <br>
